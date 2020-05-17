@@ -7,7 +7,6 @@ body
     height: 100%;
     margin: 0;
     background-color: #f9f9f9;
-    box-sizing: border-box;
 }
 html
 {
@@ -15,7 +14,7 @@ html
     height: 90%;
     min-height: 90%;
     margin: 0;
-    box-sizing: border-box;
+    width: 90%
 }
 .header
 {
