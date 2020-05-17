@@ -5,14 +5,14 @@ body
     font-weight: 400;
     height: 100%;
     background-color: #f9f9f9;
-    position: center;
+    display:inline-block;
 }
 html
 {
     position: center;
     height: 90%;
     min-height: 90%;
-    width: 90%;
+    display:inline-block;
 }
 .header
 {
